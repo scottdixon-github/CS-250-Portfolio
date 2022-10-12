@@ -1,1 +1,1 @@
-# CS-230-Class Portfolio Repository
+# CS-230-Class Portfolio Scott Dixon
