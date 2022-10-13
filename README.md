@@ -1,4 +1,4 @@
-# CS-230-Class Portfolio Scott Dixon
+# CS-250-Class Portfolio Scott Dixon
 Competency
 In this project, you will demonstrate your mastery of the following competencies:
 
