@@ -15,14 +15,14 @@ involves adaptive planning, evolutionary development, early delivery, continual 
 What does it mean to be a good team member in software development?
 
 A good Agile team-member possesses the qualities of: 
-Unified Outlook
-Accountability & Continuous Improvement
-Value-Driven Development
-Multi-Level Planning
-Ability to Adapt New Way of Doing Things
-Accepts and Works On Basis of Continuous Feedback
-Structure & Creativity Comfort
-Relative Estimation
+Unified Outlook-
+Accountability & Continuous Improvement-
+Value-Driven Development-
+Multi-Level Planning-
+Ability to Adapt New Way of Doing Things-
+Accepts and Works On Basis of Continuous Feedback-
+Structure & Creativity Comfort-
+Relative Estimation-
 
 The most successful teams are agile teams, not just in software development, but in almost every field of life. (Mehta, 2021)
 
